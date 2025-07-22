@@ -10,7 +10,7 @@
   <name>ВКМ_ФизическиеЛица</name>
   <synonym>
     <key>ru</key>
-    <value>Физические лица</value>
+    <value>Сотрудники</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
   <inputByString>Catalog.ВКМ_ФизическиеЛица.StandardAttribute.Description</inputByString>
@@ -95,6 +95,14 @@
   <createOnInput>Use</createOnInput>
   <dataLockControlMode>Managed</dataLockControlMode>
   <fullTextSearch>Use</fullTextSearch>
+  <objectPresentation>
+    <key>ru</key>
+    <value>Сотрудник</value>
+  </objectPresentation>
+  <listPresentation>
+    <key>ru</key>
+    <value>Сотрудники</value>
+  </listPresentation>
   <levelCount>2</levelCount>
   <foldersOnTop>true</foldersOnTop>
   <codeLength>25</codeLength>
