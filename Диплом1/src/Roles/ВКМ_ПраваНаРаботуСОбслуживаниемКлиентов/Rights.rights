@@ -36,6 +36,10 @@
 			<value>true</value>
 		</right>
 		<right>
+			<name>Delete</name>
+			<value>true</value>
+		</right>
+		<right>
 			<name>Posting</name>
 			<value>true</value>
 		</right>
@@ -56,7 +60,15 @@
 			<value>true</value>
 		</right>
 		<right>
+			<name>InteractiveDelete</name>
+			<value>true</value>
+		</right>
+		<right>
 			<name>InteractiveClearDeletionMark</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>InteractiveDeleteMarked</name>
 			<value>true</value>
 		</right>
 		<right>
@@ -246,6 +258,18 @@
 	<object>
 		<name>Configuration.УправлениеITФирмой</name>
 		<right>
+			<name>ThinClient</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>WebClient</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>MobileClient</name>
+			<value>true</value>
+		</right>
+		<right>
 			<name>MainWindowModeNormal</name>
 			<value>true</value>
 		</right>
@@ -269,6 +293,14 @@
 			<name>AnalyticsSystemClient</name>
 			<value>true</value>
 		</right>
+		<right>
+			<name>SaveUserData</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>Output</name>
+			<value>true</value>
+		</right>
 	</object>
 	<object>
 		<name>Catalog.ДоговорыКонтрагентов</name>
@@ -282,6 +314,10 @@
 		</right>
 		<right>
 			<name>Update</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>Delete</name>
 			<value>true</value>
 		</right>
 		<right>
@@ -302,6 +338,10 @@
 		</right>
 		<right>
 			<name>InteractiveClearDeletionMark</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>InteractiveDeleteMarked</name>
 			<value>true</value>
 		</right>
 		<right>
