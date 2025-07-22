@@ -18,6 +18,10 @@
 			<value>true</value>
 		</right>
 		<right>
+			<name>Delete</name>
+			<value>true</value>
+		</right>
+		<right>
 			<name>Posting</name>
 			<value>true</value>
 		</right>
@@ -86,72 +90,6 @@
 		</right>
 	</object>
 	<object>
-		<name>Document.ВКМ_ВыплатаЗарплаты.StandardAttribute.Posted</name>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Document.ВКМ_ВыплатаЗарплаты.StandardAttribute.Ref</name>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Document.ВКМ_ВыплатаЗарплаты.StandardAttribute.DeletionMark</name>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Document.ВКМ_ВыплатаЗарплаты.StandardAttribute.Date</name>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Document.ВКМ_ВыплатаЗарплаты.StandardAttribute.Number</name>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Document.ВКМ_ВыплатаЗарплаты.TabularSection.Сотрудники.Attribute.Сумма</name>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
 		<name>Catalog.ВКМ_ГрафикРаботы</name>
 		<right>
 			<name>Read</name>
@@ -163,6 +101,10 @@
 		</right>
 		<right>
 			<name>Update</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>Delete</name>
 			<value>true</value>
 		</right>
 		<right>
@@ -186,30 +128,12 @@
 			<value>true</value>
 		</right>
 		<right>
-			<name>InputByString</name>
+			<name>InteractiveDeleteMarked</name>
 			<value>true</value>
 		</right>
-	</object>
-	<object>
-		<name>Document.ВКМ_НачислениеФиксированнойПремии.TabularSection.СписокСотрудников.Attribute.ДатаНачала</name>
 		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Document.ВКМ_НачислениеФиксированнойПремии.Attribute.Комментарий</name>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
+			<name>InputByString</name>
+			<value>true</value>
 		</right>
 	</object>
 	<object>
@@ -217,28 +141,6 @@
 		<right>
 			<name>View</name>
 			<value>true</value>
-		</right>
-	</object>
-	<object>
-		<name>Document.ВКМ_НачислениеФиксированнойПремии.Attribute.ВидРасчета</name>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Document.ВКМ_НачислениеФиксированнойПремии.TabularSection.СписокСотрудников</name>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
 		</right>
 	</object>
 	<object>
@@ -256,6 +158,10 @@
 			<value>true</value>
 		</right>
 		<right>
+			<name>Delete</name>
+			<value>true</value>
+		</right>
+		<right>
 			<name>View</name>
 			<value>true</value>
 		</right>
@@ -268,6 +174,10 @@
 			<value>true</value>
 		</right>
 		<right>
+			<name>InteractiveDelete</name>
+			<value>true</value>
+		</right>
+		<right>
 			<name>InteractiveSetDeletionMark</name>
 			<value>true</value>
 		</right>
@@ -276,56 +186,16 @@
 			<value>true</value>
 		</right>
 		<right>
+			<name>InteractiveDeleteMarked</name>
+			<value>true</value>
+		</right>
+		<right>
 			<name>InputByString</name>
 			<value>true</value>
 		</right>
 	</object>
 	<object>
-		<name>Document.ВКМ_ВыплатаЗарплаты.Attribute.Комментарий</name>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
 		<name>InformationRegister.ВКМ_ГрафикиРаботы.Resource.РабочихЧасов</name>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Document.ВКМ_ВыплатаЗарплаты.TabularSection.Сотрудники.Attribute.Сотрудник</name>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Document.ВКМ_ВыплатаЗарплаты.TabularSection.Сотрудники</name>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Document.ВКМ_НачислениеФиксированнойПремии.TabularSection.СписокСотрудников.Attribute.СуммаПремии</name>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
 		<right>
 			<name>Edit</name>
 			<value>false</value>
@@ -376,61 +246,6 @@
 		</right>
 	</object>
 	<object>
-		<name>Document.ВКМ_НачислениеФиксированнойПремии.StandardAttribute.Posted</name>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Document.ВКМ_НачислениеФиксированнойПремии.StandardAttribute.Ref</name>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Document.ВКМ_НачислениеФиксированнойПремии.StandardAttribute.DeletionMark</name>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Document.ВКМ_НачислениеФиксированнойПремии.StandardAttribute.Date</name>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Document.ВКМ_НачислениеФиксированнойПремии.StandardAttribute.Number</name>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
 		<name>Document.ВКМ_НачислениеЗарплаты</name>
 		<right>
 			<name>Read</name>
@@ -443,6 +258,18 @@
 	</object>
 	<object>
 		<name>Configuration.УправлениеITФирмой</name>
+		<right>
+			<name>ThinClient</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>WebClient</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>MobileClient</name>
+			<value>true</value>
+		</right>
 		<right>
 			<name>MainWindowModeNormal</name>
 			<value>true</value>
@@ -467,16 +294,13 @@
 			<name>AnalyticsSystemClient</name>
 			<value>true</value>
 		</right>
-	</object>
-	<object>
-		<name>Document.ВКМ_НачислениеФиксированнойПремии.TabularSection.СписокСотрудников.Attribute.Сотрудник</name>
 		<right>
-			<name>View</name>
-			<value>false</value>
+			<name>SaveUserData</name>
+			<value>true</value>
 		</right>
 		<right>
-			<name>Edit</name>
-			<value>false</value>
+			<name>Output</name>
+			<value>true</value>
 		</right>
 	</object>
 	<object>
@@ -545,17 +369,6 @@
 		<right>
 			<name>View</name>
 			<value>true</value>
-		</right>
-	</object>
-	<object>
-		<name>Document.ВКМ_НачислениеФиксированнойПремии.TabularSection.СписокСотрудников.Attribute.ДатаОкончания</name>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
 		</right>
 	</object>
 	<object>
