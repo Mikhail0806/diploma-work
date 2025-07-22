@@ -3,9 +3,10 @@
   <name>ВКМ_ОтправкаСообщения</name>
   <synonym>
     <key>ru</key>
-    <value>ВКМ отправка сообщения</value>
+    <value>Отправка сообщения в телерам группу</value>
   </synonym>
   <methodName>CommonModule.ВКМ_Телегам.ВКМ_ОтправкаСообщения</methodName>
+  <description>Отправка сообщения в телерам группу</description>
   <use>true</use>
   <predefined>true</predefined>
   <restartCountOnFailure>3</restartCountOnFailure>
