@@ -231,6 +231,17 @@
 		</right>
 	</object>
 	<object>
+		<name>Report.ВКМ_РасходЗапланированныхОтпусков</name>
+		<right>
+			<name>Use</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>View</name>
+			<value>true</value>
+		</right>
+	</object>
+	<object>
 		<name>Document.ВКМ_НачислениеФиксированнойПремии.TabularSection.СписокСотрудников</name>
 		<right>
 			<name>View</name>
@@ -442,6 +453,17 @@
 		</right>
 	</object>
 	<object>
+		<name>Report.ВКМ_РасчётыССотрудниками</name>
+		<right>
+			<name>Use</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>View</name>
+			<value>true</value>
+		</right>
+	</object>
+	<object>
 		<name>Configuration.УправлениеITФирмой</name>
 		<right>
 			<name>MainWindowModeNormal</name>
@@ -477,6 +499,17 @@
 		<right>
 			<name>Edit</name>
 			<value>false</value>
+		</right>
+	</object>
+	<object>
+		<name>Report.ВКМ_ВыработкаСпециалистов</name>
+		<right>
+			<name>Use</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>View</name>
+			<value>true</value>
 		</right>
 	</object>
 	<object>

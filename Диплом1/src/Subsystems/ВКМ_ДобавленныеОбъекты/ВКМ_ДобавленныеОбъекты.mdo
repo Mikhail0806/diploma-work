@@ -39,4 +39,5 @@
   <content>AccumulationRegister.ВКМ_УчетОтпуска</content>
   <content>Report.ВКМ_АнализВыставленныхАктов</content>
   <content>AccumulationRegister.ВКМ_ВыполененныеРаботы</content>
+  <content>Report.ВКМ_РасходЗапланированныхОтпусков</content>
 </mdclass:Subsystem>
